@@ -11,6 +11,8 @@
 ## 📌 Project Overview
 
 This project presents a machine learning-based flood prediction system that forecasts flood probability using environmental and infrastructure-related features. With a dataset of over **1.8 million entries**, the model aims to provide accurate early flood warnings, aiding disaster preparedness and management.
+[🔗 Click here to view the paper](https://drive.google.com/file/d/1Rw2EaneXeVW9R3IOw5alySRvvXidPvJi/view?usp=sharing)
+
 
 🔗 [GitHub Repository](https://github.com/pandillapelly22345/Flood_Probability_Prediction)
 
